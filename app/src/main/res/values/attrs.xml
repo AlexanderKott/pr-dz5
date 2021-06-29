@@ -7,6 +7,11 @@
         <attr name="color2" format="color|reference" />
         <attr name="color3" format="color|reference" />
         <attr name="color4" format="color|reference" />
+        <attr name="animType" format="enum">
+            <enum name="Kolbasa" value="0"/>
+            <enum name="Default" value="1"/>
+        </attr>
+        <attr name="aduration" format="integer"/>
     </declare-styleable>
 
 </resources>
