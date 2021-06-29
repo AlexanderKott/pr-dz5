@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StatesView">
+        <attr name="textSize" format="dimension|reference" />
+        <attr name="lineWith" format="dimension|reference" />
+        <attr name="color1" format="color|reference" />
+        <attr name="color2" format="color|reference" />
+        <attr name="color3" format="color|reference" />
+        <attr name="color4" format="color|reference" />
+    </declare-styleable>
+
+</resources>
